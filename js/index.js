@@ -59,11 +59,11 @@ document.addEventListener('DOMContentLoaded', init);
 function init() {
     const txtElement = document.querySelector('.txt-type');
     const words = [
-        "Your love, strength, and guidance have shaped me into who I am today.",
-        "Wishing you a day filled with love and joy.",
-        "Dad, your unwavering support and love have been my guiding light.",
-        "Thank you for always being there when I needed you most.",
-        "Your wisdom and kindness inspire me every day.",
+        "Deena, you came into my life so gently and made it a little more beautiful. ❤️.",
+        "You have a way of making ordinary moments feel special without even trying.",
+        "Sometimes, even a small message from you can make my entire day better.",
+        "I hope life always gives you reasons to smile, even on your hardest days.",
+        "And no matter where life takes us, I'm genuinely grateful that I got to know you. 💗.",
     ];
 
     const wait = 2500;
